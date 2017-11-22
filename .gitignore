@@ -1,1 +1,4 @@
-* constants.js
+$ cat .gitignore
+
+# Can ignore specific files
+assets/index.constants.js
