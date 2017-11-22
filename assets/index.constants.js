@@ -7,9 +7,9 @@
     .constant('malarkey', malarkey)
     .constant('moment', moment)
     .constant('APP_INFO',{
-        'ID': 74,
+        'ID': 94,
         'name': 'Tiendas Blume',
-        'directory': 'demoshop',
+        'directory': 'killerqueencr',
         'website_url': 'https://website2.madebyblume.com/',
         'contact': {
         	'email': 'info@madebyblume.com',
