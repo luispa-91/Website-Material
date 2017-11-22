@@ -1,2 +1,2 @@
 # Can ignore specific files
-assets/index.constants.js
+/assets/index.constants.js
