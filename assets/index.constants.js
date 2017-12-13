@@ -11,10 +11,10 @@
         'name': 'Blume Demo',
         'directory': 'demoshop',
         'website_url': 'https://website2.madebyblume.com/',
-        'contact': {
-        	'email': 'info@madebyblume.com',
-        	'address': 'San Jose, Costa Rica.',
-        	'phone': '+506 7012 5006'
+        'chat': {
+        	'order': 'facebook,whatsapp',
+        	'facebook': '754771351335371',
+        	'whatsapp': '+50670125006'
         }
       });
 })();
