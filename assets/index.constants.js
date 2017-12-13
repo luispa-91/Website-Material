@@ -8,7 +8,7 @@
     .constant('moment', moment)
     .constant('APP_INFO',{
         'ID': 74,
-        'name': 'Tiendas Blume',
+        'name': 'Blume Demo',
         'directory': 'demoshop',
         'website_url': 'https://website2.madebyblume.com/',
         'contact': {
