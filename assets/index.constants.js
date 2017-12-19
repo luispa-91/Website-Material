@@ -11,6 +11,7 @@
         'name': 'Blume Demo',
         'directory': 'demoshop',
         'website_url': 'https://website2.madebyblume.com/',
+        'fttech_port': '4217',
         'chat': {
         	'order': 'facebook,whatsapp',
         	'facebook': '754771351335371',
