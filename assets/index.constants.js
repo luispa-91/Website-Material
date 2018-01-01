@@ -13,13 +13,13 @@
         'website_url': 'https://website2.madebyblume.com/',
         'fttech_port': '4217',
         'chat': {
-        	'order': 'facebook,whatsapp',
-        	'facebook': '754771351335371',
-        	'whatsapp': '+50670125006'
+            'order': 'facebook,whatsapp',
+            'facebook': '754771351335371',
+            'whatsapp': '+50670125006'
         },
         'instagram': {
-            account: "blumeapps",
-            mode: "half"
+            'account': 'blumeapps',
+            'mode': 'half'
           }
       });
 })();
