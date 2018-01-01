@@ -16,6 +16,10 @@
         	'order': 'facebook,whatsapp',
         	'facebook': '754771351335371',
         	'whatsapp': '+50670125006'
-        }
+        },
+        'instagram': {
+            account: "blumeapps",
+            mode: "half"
+          }
       });
 })();
