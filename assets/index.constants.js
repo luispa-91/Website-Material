@@ -11,7 +11,11 @@
         'name': 'Blume Demo',
         'directory': 'demoshop',
         'website_url': 'https://website2.madebyblume.com/',
-        'fttech_port': '4217',
+        'gateway': {
+            'url': 'http://www.fttserver.com:4217',
+            'applicationName': 'SHOPS_TEST',
+            'applicationPassword': 'Shops082017%'
+        },
         'chat': {
             'order': 'facebook,whatsapp',
             'facebook': '754771351335371',
