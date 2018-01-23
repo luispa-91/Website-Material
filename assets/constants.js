@@ -16,6 +16,11 @@
             'applicationName': 'SHOPS_TEST',
             'applicationPassword': 'Shops082017%'
         },
+        'bac': {
+            'key_id': '',
+            'processor_id': '',
+            'applicationPassword': ''
+        },
         'chat': {
             'order': 'facebook,whatsapp',
             'facebook': '754771351335371',
