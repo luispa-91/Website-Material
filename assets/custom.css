@@ -8,7 +8,7 @@ body{
 }
 
 .footer-color{
-  background-color: #bbb;
+  background-color: #000;
   color: #fff;
 }
 
@@ -18,7 +18,7 @@ md-card.md-default-theme, md-card {
 }
 
 .special-font-color{
-  color: #000;
+  color: #fff;
 }
 
 .logo-bg-color{
