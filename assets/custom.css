@@ -1,15 +1,15 @@
 html{
-  background-color: #fff;
+  background-color: #e5e5e5;
 }
 
 body{
-  background-color: #fff;
+  background-color: #e5e5e5;
   color: #000; 
 }
 
 .footer-color{
-  background-color: #fff;
-  color: #000;
+  background-color: #000;
+  color: #fff;
 }
 
 md-card.md-default-theme, md-card {
@@ -18,7 +18,7 @@ md-card.md-default-theme, md-card {
 }
 
 .special-font-color{
-  color: #000;
+  color: #fff;
 }
 
 .logo-bg-color{
@@ -39,4 +39,8 @@ md-card.md-default-theme, md-card {
 
 .icon-color{
   color: #000;
+}
+
+.md-button {
+  border-radius: none !important;
 }
