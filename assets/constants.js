@@ -10,7 +10,7 @@
         'ID': 74,
         'name': 'Demo Tienda',
         'directory': 'demoshop',
-        'website_url': 'https://demo.madebyblume.com/',
+        'website_url': 'https://demo.madebyblume.com/checkout/confirmed',
         'international_shipping': true,
         'gateway': {
             'url': 'http://www.fttserver.com:4217',
