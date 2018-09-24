@@ -10,7 +10,7 @@ return makePage($data);
 
 function makePage($data) {
     // 1. get the page
-    $pageUrl = "https://demo.madebyblume.com/product/" . $data->id;
+    $pageUrl = "https://demo.madebyblume.com/product/" . $data->$id;
     // 2. generate the HTML with open graph tags
     $html  = '<!doctype html>'.PHP_EOL;
     $html .= '<html>'.PHP_EOL;
