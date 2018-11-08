@@ -18,9 +18,9 @@
             'applicationPassword': 'Shops082017%'
         },
         'bac': {
-            'key_id': '7185696',
-            'processor_id': 'freaks2',
-            'applicationPassword': 'CAwDP8vg6wbxP42FS775r6Q8RfB2j2Ep'
+            'key_id': '10973824',
+            'processor_id': '70150506',
+            'applicationPassword': 'n4EHghhdqaZBaC3h24N79nK5b54d94U6'
         },
         'chat': {
             'order': 'facebook',
