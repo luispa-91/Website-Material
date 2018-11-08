@@ -10,7 +10,7 @@
         'ID': 402,
         'name': 'Energym',
         'directory': 'energym',
-        'website_url': 'https://demo.madebyblume.com/checkout/confirmed',
+        'website_url': 'https://matricula.energym.com/checkout/confirmed',
         'international_shipping': true,
         'gateway': {
             'url': 'http://www.fttserver.com:4217',
