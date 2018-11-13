@@ -7,31 +7,31 @@
     .constant('malarkey', malarkey)
     .constant('moment', moment)
     .constant('APP_INFO',{
-        'ID': 74,
-        'name': 'Demo Tienda',
-        'directory': 'demoshop',
-        'website_url': 'https://demo.madebyblume.com/checkout/confirmed',
+        'ID': 334,
+        'name': 'Apuyantra',
+        'directory': 'apuyantrasa',
+        'website_url': 'https://apuyantra.com/',
         'international_shipping': true,
         'gateway': {
-            'url': 'http://www.fttserver.com:4217',
-            'applicationName': 'SHOPS_TEST',
-            'applicationPassword': 'Shops082017%'
+            'url': 'https://www.fttserver.com:2181',
+            'applicationName': 'APUYANTRA',
+            'applicationPassword': 'APFTTDIC0117%'
         },
         'bac': {
-            'key_id': '7185696',
-            'processor_id': 'freaks2',
-            'applicationPassword': 'CAwDP8vg6wbxP42FS775r6Q8RfB2j2Ep'
+            'key_id': '',
+            'processor_id': '',
+            'applicationPassword': ''
         },
         'chat': {
             'order': 'facebook,whatsapp',
-            'facebook': '754771351335371',
-            'whatsapp': '+50670125006',
+            'facebook': '119306651581655',
+            'whatsapp': '+50683368269',
             'shortMessage': 'Envíenos un mensaje',
             'longMessage': 'Necesita ayuda? Escríbanos y estaremos en contacto pronto'
         },
         'instagram': {
-            'account': 'blumeapps',
-            'mode': 'half'
+            'account': 'apuyantra',
+            'mode': 'full'
           }
       });
 })();
