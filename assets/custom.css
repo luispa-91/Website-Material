@@ -1,19 +1,19 @@
 html{
-  background-color: #fff;
+  background-color: #f6e6d8;
 }
 
 body{
-  background-color: #fff;
+  background-color: #f6e6d8;
   color: #000; 
 }
 
 .footer-color{
-  background-color: #fff;
-  color: #000;
+  background-color: #53c0a5;
+  color: #fff;
 }
 
 md-card.md-default-theme, md-card {
-  background-color: #fff;
+  background-color: #fff5ef;
   color: #000; 
 }
 
@@ -22,11 +22,11 @@ md-card.md-default-theme, md-card {
 }
 
 .logo-bg-color{
-  background-color: #fff;
+  background-color: #a3d6be;
 }
 
 .navbar-color{
-  background-color: #fff;
+  background-color: #fff5ef;
 }
 
 .social-color{
@@ -34,9 +34,18 @@ md-card.md-default-theme, md-card {
 }
 
 .md-button.md-default-theme.md-warn, .md-button.md-warn {
-  color: #000;
+  background-color: #53c0a5;
+  color: #fff;
 }
 
 .icon-color{
   color: #000;
+}
+
+.img-about{
+  width: auto !important;
+}
+
+.primary-bc{
+  background-color: #f6e6d8 !important;
 }
