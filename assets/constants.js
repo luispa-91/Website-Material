@@ -7,20 +7,20 @@
     .constant('malarkey', malarkey)
     .constant('moment', moment)
     .constant('APP_INFO',{
-        'ID': 74,
-        'name': 'Demo Tienda',
-        'directory': 'demoshop',
-        'website_url': 'https://demo.madebyblume.com/checkout/confirmed',
+        'ID': 234,
+        'name': 'Caricaco Beachwear',
+        'directory': 'caricacobeachwear',
+        'website_url': 'https://caricacobeachwear.com/',
         'international_shipping': true,
         'gateway': {
-            'url': 'http://www.fttserver.com:4217',
-            'applicationName': 'SHOPS_TEST',
-            'applicationPassword': 'Shops082017%'
+            'url': 'https://emcom.oneklap.com:2241',
+            'applicationName': 'CARICACO',
+            'applicationPassword': 'CCFTTJUL1818%'
         },
         'bac': {
-            'key_id': '7185696',
-            'processor_id': 'freaks2',
-            'applicationPassword': 'CAwDP8vg6wbxP42FS775r6Q8RfB2j2Ep'
+            'key_id': '',
+            'processor_id': '',
+            'applicationPassword': ''
         },
         'chat': {
             'order': 'facebook,whatsapp',
@@ -30,7 +30,7 @@
             'longMessage': 'Necesita ayuda? Escríbanos y estaremos en contacto pronto'
         },
         'instagram': {
-            'account': 'blumeapps',
+            'account': 'caricacobeachwear',
             'mode': 'half'
           }
       });
