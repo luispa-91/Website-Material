@@ -7,10 +7,10 @@
     .constant('malarkey', malarkey)
     .constant('moment', moment)
     .constant('APP_INFO',{
-        'ID': 74,
-        'name': 'Demo Tienda',
-        'directory': 'demoshop',
-        'website_url': 'https://demo.madebyblume.com/checkout/confirmed',
+        'ID': 337,
+        'name': 'Pasoca',
+        'directory': 'pasoca',
+        'website_url': 'https://pasocacr.com',
         'international_shipping': true,
         'gateway': {
             'url': 'http://www.fttserver.com:4217',
@@ -18,14 +18,14 @@
             'applicationPassword': 'Shops082017%'
         },
         'bac': {
-            'key_id': '7185696',
-            'processor_id': 'freaks2',
-            'applicationPassword': 'CAwDP8vg6wbxP42FS775r6Q8RfB2j2Ep'
+            'key_id': '8391346',
+            'processor_id': '',
+            'applicationPassword': 'jbYeT4VfN9QsP3X4vh3Kz5c9sv6q5yx9'
         },
         'chat': {
             'order': 'facebook,whatsapp',
-            'facebook': '754771351335371',
-            'whatsapp': '+50670125006',
+            'facebook': '870130059710025',
+            'whatsapp': '+50685701518',
             'shortMessage': 'Envíenos un mensaje',
             'longMessage': 'Necesita ayuda? Escríbanos y estaremos en contacto pronto'
         },
