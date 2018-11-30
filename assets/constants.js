@@ -7,10 +7,10 @@
     .constant('malarkey', malarkey)
     .constant('moment', moment)
     .constant('APP_INFO',{
-        'ID': 74,
-        'name': 'Demo Tienda',
-        'directory': 'demoshop',
-        'website_url': 'https://demo.madebyblume.com/checkout/confirmed',
+        'ID': 406,
+        'name': 'Xtreme',
+        'directory': 'extremecr',
+        'website_url': 'https://extremecr.com/checkout/confirmed',
         'international_shipping': true,
         'gateway': {
             'url': 'http://www.fttserver.com:4217',
@@ -18,14 +18,14 @@
             'applicationPassword': 'Shops082017%'
         },
         'bac': {
-            'key_id': '7185696',
-            'processor_id': 'freaks2',
-            'applicationPassword': 'CAwDP8vg6wbxP42FS775r6Q8RfB2j2Ep'
+            'key_id': '11085755',
+            'processor_id': '48190014',
+            'applicationPassword': 'HCdBgnzVDjKRJu3HJgtQwJK7jtpt595g'
         },
         'chat': {
             'order': 'facebook,whatsapp',
-            'facebook': '754771351335371',
-            'whatsapp': '+50670125006',
+            'facebook': '288366011262888',
+            'whatsapp': '+50684563736',
             'shortMessage': 'Envíenos un mensaje',
             'longMessage': 'Necesita ayuda? Escríbanos y estaremos en contacto pronto'
         },
