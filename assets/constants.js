@@ -7,11 +7,11 @@
     .constant('malarkey', malarkey)
     .constant('moment', moment)
     .constant('APP_INFO',{
-        'ID': 74,
-        'name': 'Demo Tienda',
-        'directory': 'demoshop',
-        'website_url': 'https://demo.madebyblume.com/checkout/confirmed',
-        'international_shipping': true,
+        'ID': 414,
+        'name': 'Top Ghost Productions',
+        'directory': 'tgp',
+        'website_url': 'https://topghostproductions.com/checkout/confirmed',
+        'international_shipping': false,
         'use_map': false,
         'gateway': {
             'url': 'http://www.fttserver.com:4217',
@@ -31,7 +31,7 @@
             'longMessage': 'Necesita ayuda? Escríbanos y estaremos en contacto pronto'
         },
         'instagram': {
-            'account': 'blumeapps',
+            'account': 'topghostproductions',
             'mode': 'half'
           }
       });
