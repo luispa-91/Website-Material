@@ -7,16 +7,16 @@
     .constant('malarkey', malarkey)
     .constant('moment', moment)
     .constant('APP_INFO',{
-        'ID': 74,
-        'name': 'Demo Tienda',
-        'directory': 'demoshop',
-        'website_url': 'https://demo.madebyblume.com/checkout/confirmed',
+        'ID': 413,
+        'name': 'Basic B',
+        'directory': 'basicb',
+        'website_url': 'https://basicbcr.com/',
         'international_shipping': true,
         'use_map': false,
         'gateway': {
-            'url': 'http://www.fttserver.com:4217',
-            'applicationName': 'SHOPS_TEST',
-            'applicationPassword': 'Shops082017%'
+            'url': 'https://www.fttserver.com:2183',
+            'applicationName': 'KILLERQUEEN',
+            'applicationPassword': 'KQFTTDIC0717%'
         },
         'bac': {
             'key_id': '7185696',
@@ -24,14 +24,14 @@
             'applicationPassword': 'CAwDP8vg6wbxP42FS775r6Q8RfB2j2Ep'
         },
         'chat': {
-            'order': 'facebook,whatsapp',
-            'facebook': '754771351335371',
-            'whatsapp': '+50670125006',
+            'order': 'facebook',
+            'facebook': '632907230384346',
+            'whatsapp': '',
             'shortMessage': 'Envíenos un mensaje',
             'longMessage': 'Necesita ayuda? Escríbanos y estaremos en contacto pronto'
         },
         'instagram': {
-            'account': 'blumeapps',
+            'account': 'basicbcr',
             'mode': 'half'
           }
       });
