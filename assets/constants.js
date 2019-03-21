@@ -14,9 +14,9 @@
         'international_shipping': true,
         'use_map': false,
         'gateway': {
-            'url': 'https://www.fttserver.com:2183',
+            'url': 'https://emcom.oneklap.com:2183',
             'applicationName': 'KILLERQUEEN',
-            'applicationPassword': 'KQFTTDIC0717%'
+            'applicationPassword': 'KQFTT190319%'
         },
         'bac': {
             'key_id': '7185696',
