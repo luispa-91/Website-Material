@@ -13,9 +13,9 @@
         'website_url': 'https://apuyantra.com/',
         'international_shipping': true,
         'gateway': {
-            'url': 'https://www.fttserver.com:2181',
+            'url': 'https://emcom.oneklap.com:2181',
             'applicationName': 'APUYANTRA',
-            'applicationPassword': 'APFTTDIC0117%'
+            'applicationPassword': 'APY180319%'
         },
         'bac': {
             'key_id': '',
