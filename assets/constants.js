@@ -13,9 +13,9 @@
         'website_url': 'https://francescaarati.com/',
         'international_shipping': true,
         'gateway': {
-            'url': 'https://www.fttserver.com:2191',
+            'url': 'https://emcom.oneklap.com:2191',
             'applicationName': 'ARATI',
-            'applicationPassword': 'FAFTTENE0218%'
+            'applicationPassword': 'ART150319%'
         },
         'bac': {
             'key_id': '',
