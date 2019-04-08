@@ -26,3 +26,5 @@ function makePage($data) {
     // 3. return the page
     echo $html;
 }
+
+?>
