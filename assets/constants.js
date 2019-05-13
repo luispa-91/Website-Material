@@ -7,10 +7,10 @@
     .constant('malarkey', malarkey)
     .constant('moment', moment)
     .constant('APP_INFO',{
-        'ID': 74,
-        'name': 'Demo Tienda',
-        'directory': 'demoshop',
-        'website_url': 'https://demo.madebyblume.com/checkout/confirmed',
+        'ID': 419,
+        'name': 'Unu',
+        'directory': 'unu',
+        'website_url': 'https://unu.cr/checkout/confirmed',
         'international_shipping': true,
         'use_map': false,
         'gateway': {
@@ -31,7 +31,7 @@
             'longMessage': 'Necesita ayuda? Escríbanos y estaremos en contacto pronto'
         },
         'instagram': {
-            'account': 'blumeapps',
+            'account': 'unu.cr',
             'mode': 'half'
           }
       });
