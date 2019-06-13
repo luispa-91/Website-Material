@@ -7,10 +7,10 @@
     .constant('malarkey', malarkey)
     .constant('moment', moment)
     .constant('APP_INFO',{
-        'ID': 74,
-        'name': 'Demo Tienda',
-        'directory': 'demoshop',
-        'website_url': 'https://demo.madebyblume.com/checkout/confirmed',
+        'ID': 420,
+        'name': 'Apartado Creativo',
+        'directory': 'apartadocreativo',
+        'website_url': 'https://apartadocreativo.com/checkout/confirmed',
         'international_shipping': true,
         'use_map': false,
         'gateway': {
@@ -24,14 +24,14 @@
             'applicationPassword': 'CAwDP8vg6wbxP42FS775r6Q8RfB2j2Ep'
         },
         'chat': {
-            'order': 'facebook,whatsapp',
-            'facebook': '754771351335371',
-            'whatsapp': '+50670125006',
+            'order': 'facebook',
+            'facebook': '358257024262604',
+            'whatsapp': '',
             'shortMessage': 'Envíenos un mensaje',
             'longMessage': 'Necesita ayuda? Escríbanos y estaremos en contacto pronto'
         },
         'instagram': {
-            'account': 'blumeapps',
+            'account': 'apartado_creativo',
             'mode': 'half'
           }
       });
