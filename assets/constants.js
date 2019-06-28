@@ -25,8 +25,8 @@
         },
         'chat': {
             'order': 'facebook,whatsapp',
-            'facebook': '754771351335371',
-            'whatsapp': '+50670125006',
+            'facebook': '2048281405386330',
+            'whatsapp': '+50684211707',
             'shortMessage': 'Envíenos un mensaje',
             'longMessage': 'Necesita ayuda? Escríbanos y estaremos en contacto pronto'
         },
