@@ -19,9 +19,9 @@
             'applicationPassword': 'KQFTT190319%'
         },
         'bac': {
-            'key_id': '7185696',
-            'processor_id': 'freaks2',
-            'applicationPassword': 'CAwDP8vg6wbxP42FS775r6Q8RfB2j2Ep'
+            'key_id': '70227584',
+            'processor_id': '13767647',
+            'applicationPassword': 'J3X4G5ce4R885GWA2257FGsjEacU4F8P'
         },
         'chat': {
             'order': 'facebook',
