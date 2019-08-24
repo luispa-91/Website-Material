@@ -10,7 +10,7 @@
         'ID': 238,
         'name': 'Killer Queen',
         'directory': 'killerqueen',
-        'website_url': 'https://killerqueen.com/',
+        'website_url': 'https://killerqueencr.com/',
         'international_shipping': true,
         'use_map': false,
         'gateway': {
