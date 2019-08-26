@@ -19,8 +19,8 @@
             'applicationPassword': 'KQFTT190319%'
         },
         'bac': {
-            'key_id': '70227584',
-            'processor_id': '13767647',
+            'key_id': '13767647',
+            'processor_id': '70227584',
             'applicationPassword': 'J3X4G5ce4R885GWA2257FGsjEacU4F8P'
         },
         'chat': {
