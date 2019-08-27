@@ -10,7 +10,7 @@
         'ID': 413,
         'name': 'Basic B',
         'directory': 'basicb',
-        'website_url': 'https://basicbcr.com/',
+        'website_url': 'https://basicbcr.com/checkout/confirmed',
         'international_shipping': true,
         'use_map': false,
         'gateway': {
@@ -19,9 +19,9 @@
             'applicationPassword': 'KQFTT190319%'
         },
         'bac': {
-            'key_id': '7185696',
-            'processor_id': 'freaks2',
-            'applicationPassword': 'CAwDP8vg6wbxP42FS775r6Q8RfB2j2Ep'
+            'key_id': '13767647',
+            'processor_id': '70227584',
+            'applicationPassword': 'J3X4G5ce4R885GWA2257FGsjEacU4F8P'
         },
         'chat': {
             'order': 'facebook',
