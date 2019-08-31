@@ -16,7 +16,7 @@
         'gateway': {
             'url': 'https://emcom.oneklap.com:2249',
             'applicationName': 'FOURKIDS',
-            'applicationPassword': 'FKFTTAGO0919%'
+            'applicationPassword': 'FKSFTT220819%'
         },
         'bac': {
             'key_id': '7185696',
