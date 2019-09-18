@@ -14,9 +14,9 @@
         'international_shipping': true,
         'use_map': false,
         'gateway': {
-            'url': 'http://www.fttserver.com:4217',
-            'applicationName': 'SHOPS_TEST',
-            'applicationPassword': 'Shops082017%'
+            'url': 'https://emcom.oneklap.com:2275',
+            'applicationName': 'UNU',
+            'applicationPassword': 'UNUFTT120919%'
         },
         'bac': {
             'key_id': '7185696',
